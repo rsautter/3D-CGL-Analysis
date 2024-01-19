@@ -1,5 +1,6 @@
 # 3D-CGL-Analysis
 This repository includes the Gradient Pattern Analaysis (GPA) and Structure Function of 3D Complex Ginzburg-Landau equation (CGL). 
+
 The cc3D code by Silversmith was applied to detect the Structures.
 
 ###  GPA
